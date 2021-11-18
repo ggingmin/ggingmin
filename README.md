@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm ggingmin</h1>
-<h3 align="center">A</h3>
 
-- 👨‍💻 All of my projects are available at [http://ggingmin.com](http://ggingmin.com)
+- 👨‍💻 All of my projects are available at [My Site](http://ggingmin.com)
 
-- 📝 I regularly write articles on [https://ggingmin.notion.site/c6a97234524a46f786414b97caea6f98?v=dc9a75726f92493cafbd503e6b4340f7](https://ggingmin.notion.site/c6a97234524a46f786414b97caea6f98?v=dc9a75726f92493cafbd503e6b4340f7)
+- 📝 I regularly write articles on [Notion Page](https://ggingmin.notion.site/c6a97234524a46f786414b97caea6f98?v=dc9a75726f92493cafbd503e6b4340f7)
 
 - 💬 Ask me about **Docker, Spring Boot, FastAPI, and NEXT.js**
 
 - 📫 How to reach me **ggingmin@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ggingmin/](https://www.linkedin.com/in/ggingmin/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/ggingmin/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggingmin&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ggingmin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggingmin&show_icons=true&theme=dracula&locale=en" alt="ggingmin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggingmin&theme=default" alt="ggingmin" /></p>
