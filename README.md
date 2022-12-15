@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ggingmin</h1>
 
-- 👨‍💻 All of my projects are available at **[My Site](http://ggingmin.com)**
+- 👨‍💻 All of my projects are available at **[My Site](http://www.ggingmin.com)**
 
 - 📝 I regularly write articles on **[Notion Page](https://ggingmin.notion.site/c6a97234524a46f786414b97caea6f98?v=dc9a75726f92493cafbd503e6b4340f7)**
 
