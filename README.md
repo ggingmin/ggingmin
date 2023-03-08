@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on **[Notion Page](https://ggingmin.notion.site/c6a97234524a46f786414b97caea6f98?v=dc9a75726f92493cafbd503e6b4340f7)**
 
-- 💬 Ask me about **Docker, Docker Compose, Django, and React**
+- 💬 Ask me about **Docker, Kubernetes**
 
 - 📫 How to reach me **ggingmin@gmail.com**
 
